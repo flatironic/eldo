@@ -182,30 +182,31 @@ function accesspress_bxslidercb(){
 
             <div class="bx-slider">
 				<div class="slides">
-					<img src="<?php echo get_template_directory_uri(); ?>/images/demo/slider1.jpg" alt="slider1">
+					<img src="<?php echo get_template_directory_uri(); ?>/images/eldo/Eldorado-Canyon-State-Park-1.jpg" alt="eldo canyon">
 					<div class="slider-caption">
 						<div class="mid-content">
-							<h1 class="caption-title">Welcome to AccessPress Parallax!</h1>
+							<h1 class="caption-title">Web Development and Design!</h1>
 							<h2 class="caption-description">
-							<p>A full featured parallax theme – and its absolutely free!</p>
-							<p><a href="#">Read More</a></p>
+							<p>We can build custom sites or help on large scale projects.</p>
+							<p><a href="#contact">Contact Us</a></p>
 							</h2>
 						</div>
 					</div>
 				</div>
-						
-				<div class="slides">
-					<img src="<?php echo get_template_directory_uri(); ?>/images/demo/slider2.jpg" alt="slider2">
-					<div class="slider-caption">
-						<div class="ak-container">
-							<h1 class="caption-title">Amazing multi-purpose parallax theme</h1>
-							<h2 class="caption-description">
-							<p>Travel, corporate, small biz, portfolio, agencies, photography, health, creative – useful for anyone and everyone</p>
-							<p><a href="#">Read More</a></p>
-							</h2>
-							</div>
-					</div>
-				</div>
+
+<!--				<div class="slides">-->
+<!--					<img src="--><?php //echo get_template_directory_uri(); ?><!--/images/demo/slider2.jpg" alt="slider2">-->
+<!--					<div class="slider-caption">-->
+<!--						<div class="ak-container">-->
+<!--							<h1 class="caption-title">Amazing multi-purpose parallax theme</h1>-->
+<!--							<h2 class="caption-description">-->
+<!--							<p>Travel, corporate, small biz, portfolio, agencies, photography, health, creative – useful for anyone and everyone</p>-->
+<!--							<p><a href="#">Read More</a></p>-->
+<!--							</h2>-->
+<!--							</div>-->
+<!--					</div>-->
+<!--				</div>-->
+
 			</div>
 			<?php  endif; ?>
 		</section>
